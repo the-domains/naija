@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[for what we were, are and will be]]></title>
         <description><![CDATA[for what we were, are and will be]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/naija/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 12:35:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 12:56:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/naija/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddcad95b-a841-4883-969a-7e76fdd3ca1c.jpg">]]></description>
-            <link>undefined86ea5223-6d34-489d-a203-9d2ed65dd4a9/index.html</link>
+            <link>https://thegrid.ai/naija/86ea5223-6d34-489d-a203-9d2ed65dd4a9/index.html</link>
             <guid isPermaLink="false">86ea5223-6d34-489d-a203-9d2ed65dd4a9</guid>
-            <pubDate>Thu, 14 Apr 2016 12:35:50 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2016 12:56:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
